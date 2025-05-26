@@ -7,7 +7,7 @@ This is **not the full application**. Full source code is available privately up
 
 ## 🔍 Sample Code Overview
 - `KgCumController.php`: Handles SBA generation logic
-- `KgOverall.js`: Teacher-facing form
+- `KgOverall.js`: SBA UI component
 - `k_gstudents_table.php`: database 
 - `assets/`: Screenshots of UI components
 
